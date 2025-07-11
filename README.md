@@ -15,7 +15,7 @@ This project sets up a simple, scalable Apache web application on AWS EC2 instan
 
 ## 🖼️ Architecture Overview
 
-![Architecture Diagram](9f6370e0-6c8f-41ac-8158-c35e237dd541.png)
+![Architecture Diagram]architecture.png
 
 ### Key Components:
 
