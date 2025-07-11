@@ -31,15 +31,13 @@ This project sets up a simple, scalable Apache web application on AWS EC2 instan
 
 ---
 
-## 📁 Project Structure
+## 🖼️ Screenshots
 
-```bash
-.
-├── user-data-script.sh      # EC2 User Data script
-├── index.php                # PHP Web UI for CPU stress
-├── README.md
-└── architecture.png         # System architecture diagram
-```
+### 🔹 Web Interface
+![Web UI Screenshot](webapp-screenshot.png)
+
+### 🔹 Email Alert from SNS
+![SNS Email Screenshot](sns-email-screenshot.png)(sns-email-screenshot2.png)
 
 ---
 
@@ -73,3 +71,4 @@ This project sets up a simple, scalable Apache web application on AWS EC2 instan
   ```
 - Useful for learning about EC2 automation, stress testing, and monitoring
 - Not secured for production use
+
