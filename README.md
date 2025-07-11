@@ -38,7 +38,7 @@ This project sets up a simple, scalable Apache web application on AWS EC2 instan
 
 ### 🔹 Email Alert from SNS
 ![SNS Email Screenshot](sns-email-screenshot.png)
-!(sns-email-screenshot2.png)
+![](sns-email-screenshot2.png)
 
 ---
 
